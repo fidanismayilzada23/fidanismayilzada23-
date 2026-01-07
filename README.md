@@ -15,8 +15,6 @@ My professional journey revolves around **data analysis, reporting, and building
 
 # ⚙️ Tech Stack
 
-## ⚙️ Tools & Technologies
-
 ### 📊 Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=power-bi)
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
@@ -44,7 +42,7 @@ My professional journey revolves around **data analysis, reporting, and building
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fidanismayilzada23&theme=radical)
 
-
+---
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FidanIsmayil?theme=dark&font=Ubuntu&ext=heatmap)
 
