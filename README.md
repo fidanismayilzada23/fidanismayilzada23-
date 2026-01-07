@@ -15,24 +15,35 @@ My professional journey revolves around **data analysis, reporting, and building
 
 # ⚙️ Tech Stack
 
-## 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) 
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-
 ## ⚙️ Tools & Technologies
+
+### 📊 Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/-Power%20BI-333?style=flat&logo=power-bi)
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 ![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel)
-![Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=google-colab)
+
+### 🐍 Programming & Data Libraries
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=python)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=python)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333?style=flat&logo=scikit-learn)
+
+### 🛠️ Tools & Platforms
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=google-colab)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 
----
 
+---
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fidanismayilzada23&theme=radical&row=2)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fidanismayilzada23&theme=radical)
+
 
 ## 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FidanIsmayil?theme=dark&font=Ubuntu&ext=heatmap)
